@@ -16,13 +16,16 @@ Provide the number of generations to include:
 20
 ====================================================================================
 Indicate whether genomic relationship needs to be estimated
-yes/no
+yes
+
 Provide the genotype file
 ====================================================================================
 geno.txt
+
 Provide the MAF threshold
 ====================================================================================
 0.05
+
 Provide the missing proportion of genotype tolerated
 ====================================================================================
 0.05
