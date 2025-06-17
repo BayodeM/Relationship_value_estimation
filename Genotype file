@@ -1,0 +1,11 @@
+The genotype file to be provided should follow the below format and there should be no header line.
+The genotype has two columns, the first column is the id of the animals and the second column is the genotype.
+Example of genotype for ten animals: 
+A 1011112012
+B 1100111002
+C 1000002112
+D 2001112002
+E 2012002012
+F 1000222002
+G 1000222002
+H 0000112112
